@@ -2,7 +2,7 @@
 
 **Technologies And Libraries Used:**
 
-requests, re,openpyxl and some python based modules
+`Python, requests, re,openpyxl`
 
 
 
